@@ -210,3 +210,9 @@ footer {
 .replay:hover {
     background: rgba(17, 0, 255, 0.301);
 }
+
+@media screen and (max-width:500px) {
+    .container_box {
+        width:70vw;
+    }
+
