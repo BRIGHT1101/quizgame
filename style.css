@@ -212,7 +212,7 @@ footer {
 }
 
 @media screen and (max-width:500px) {
-    .container_box {
+    .container_box.playing{
         width:70vw;
     }
 }
